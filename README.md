@@ -39,5 +39,7 @@ A fourth-year Computer Science student at UGA and a Software Engineer at the fin
 ---
 
 
-### Find me at:
+### Check out:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ealjabry/)
+[![Gmail](https://img.shields.io/badge/Gmail-ealjabry@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ealjabry@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Click_Here-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/EmadZero/EmadZero/blob/main/Emad_Aljabry_resume.pdf)
