@@ -1,6 +1,6 @@
 ## Hi, I'm Emad Aljabry
 
-A fourth-year Computer Science student at UGA and a Software Engineer at the fintech company [Pabloo](https://pabloo.com).
+I'm a software engineer at the fintech company [Pabloo](https://pabloo.com) and a recent Computer Science graduate from The University of Georgia.
 
 - 🔭 **Building Intuitive & Scalable Solutions**: I'm passionate about full-stack development and the intersection of software engineering and machine learning.
 - 🌱 **Exploring the Intersection of Technology & Innovation**: My focus is on leveraging modern web technologies and machine learning to create impactful tools that enhance efficiency and user satisfaction.
