@@ -38,4 +38,4 @@ I'm a software engineer at the fintech company [Pabloo](https://pabloo.com) and 
 ### Check out:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ealjabry/)
 [![Gmail](https://img.shields.io/badge/Gmail-ealjabry@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ealjabry@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Click_Here-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/EmadZero/EmadZero/blob/main/Emad_Aljabry_resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Click_Here-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/EmadZero/EmadZero/blob/main/EmadAljabry_resume.pdf)
